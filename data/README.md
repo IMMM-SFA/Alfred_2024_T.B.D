@@ -1,1 +1,1 @@
-"# This is a new folder" 
+County_level data contains the aggregated county-level heat wave-related variables (Number of heat wave events each year, total heat wave days each year, and highest temperature of the hottest event each year).
