@@ -1,1 +1,1 @@
-"#This is a new folder" 
+These are the heat wave variables (Number of heat wave events each year, total heat wave days each year, and highest temperature during the hottest event) aggregated at the Balancing Authority-level. 
