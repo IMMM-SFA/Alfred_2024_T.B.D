@@ -6,5 +6,7 @@ Aggregate three historical (1980-2019) heat wave-related variables (number of he
 ## Code 
 "HW_aggregation_to_county" is the R code to aggregate the historical heat wave variables from grids (1/8 degree resolution) to county level. "HW_aggregation_to_BA" is the R code to aggregate the heat wave variables from county level to balancing authority level.
 
-## Data
-County_level and BA_level heat wave variables are in the data folder. 
+## Input and output data
+|Dataset |Input/output |Repository link|
+|------  |-----------  |-------------- |
+|County-level population|Input |https://zenodo.org/records/7130351|
