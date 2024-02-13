@@ -10,3 +10,7 @@ Aggregate three historical (1980-2019) heat wave-related variables (number of he
 |Dataset |Input/output |Repository link|
 |------  |-----------  |-------------- |
 |County-level population|Input |https://zenodo.org/records/7130351|
+|Balancing authority depiction file|Input |https://zenodo.org/records/7130351|
+|Gridded heat wave variables |Input|PIC: /rcfs/projects/im3/TGW_Heat_Waves|
+|County-level aggregated heat wave variables|Output|XXX |
+|BA-level aggregated heat wave variables|Output|XXX|
