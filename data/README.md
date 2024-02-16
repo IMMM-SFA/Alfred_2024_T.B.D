@@ -1,1 +1,1 @@
-County_level data contains the aggregated county-level heat wave-related variables (Number of heat wave events each year, total heat wave days each year, and highest temperature of the hottest event each year).
+"County_level" data contains the aggregated county-level heat wave-related variables (Number of heat wave events each year, total heat wave days each year, and highest temperature of the hottest event each year). "State_level" data and "BA_level" data contain the population-weighted state-level and balancing authority-level heat wave-related variables, respectively.
