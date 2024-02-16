@@ -1,1 +1,1 @@
-"New folder" 
+State-level historical (1980 - 2019) time-series plot for the number of heat wave events each year (This state-level data is aggregated from the county-level data weighted by county population, and county-level data is aggregated by taking the mean of the data grids)
