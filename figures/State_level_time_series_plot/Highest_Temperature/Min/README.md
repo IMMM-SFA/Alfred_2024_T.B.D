@@ -1,1 +1,1 @@
-"Add folders" 
+State-level historical (1980 - 2019) time-series plot for the highest temeprature during hottest event each year (This state-level data is aggregated from the county-level data weighted by county population, and county-level data is aggregated by taking the minima of the data grids)
